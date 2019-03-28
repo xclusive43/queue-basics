@@ -14,7 +14,7 @@ void insert();
 void delete1();
 void display();
 
-int rear=-1,front;	
+int rear,front;	
 	
    que(){
 		rear=-1;
