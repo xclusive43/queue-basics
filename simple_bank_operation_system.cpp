@@ -12,8 +12,8 @@ public:
 
  bank()
  {
- name="ajay";
- acno="33527157290";
+ name="xclusive";
+ acno="335271574534";
  actype= "savings";
  amount =100;
 
